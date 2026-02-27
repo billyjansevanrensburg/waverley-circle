@@ -21,7 +21,7 @@ export default function Contact() {
         >
           <div className="mx-auto mb-4 h-px w-12 bg-gold" />
           <h2 className="mb-4 text-3xl font-bold text-white sm:text-4xl md:text-5xl">
-            Secure Your Unit at Waverley Circle
+            Secure Your Unit at Waverley Apartments
           </h2>
           <p className="mb-10 text-base text-text-secondary sm:text-lg">
             Register your interest today or get in touch with our team.

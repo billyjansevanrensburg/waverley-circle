@@ -5,12 +5,12 @@ import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
 
 const images = [
-  { src: "/media/Image 1.jpg", alt: "Waverley Circle exterior view", width: 1200, height: 800 },
-  { src: "/media/Image 2.jpg", alt: "Waverley Circle apartment interior", width: 1200, height: 800 },
-  { src: "/media/Image 3.jpg", alt: "Waverley Circle living space", width: 1200, height: 800 },
-  { src: "/media/Image 4.png", alt: "Waverley Circle floor plan", width: 1200, height: 800 },
-  { src: "/media/Image 5.jpg", alt: "Waverley Circle kitchen area", width: 1200, height: 800 },
-  { src: "/media/Image 6.png", alt: "Waverley Circle development overview", width: 1200, height: 800 },
+  { src: "/media/Image 1.jpg", alt: "Waverley Apartments exterior view", width: 1200, height: 800 },
+  { src: "/media/Image 2.jpg", alt: "Waverley Apartments apartment interior", width: 1200, height: 800 },
+  { src: "/media/Image 3.jpg", alt: "Waverley Apartments living space", width: 1200, height: 800 },
+  { src: "/media/Image 4.png", alt: "Waverley Apartments floor plan", width: 1200, height: 800 },
+  { src: "/media/Image 5.jpg", alt: "Waverley Apartments kitchen area", width: 1200, height: 800 },
+  { src: "/media/Image 6.png", alt: "Waverley Apartments development overview", width: 1200, height: 800 },
 ];
 
 export default function Gallery() {
@@ -41,7 +41,7 @@ export default function Gallery() {
         >
           <div className="mx-auto mb-4 h-px w-12 bg-gold" />
           <h2 className="text-3xl font-bold text-white sm:text-4xl md:text-5xl">
-            Explore Waverley Circle
+            Explore Waverley Apartments
           </h2>
         </motion.div>
 

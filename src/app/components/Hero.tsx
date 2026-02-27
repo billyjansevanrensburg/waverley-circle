@@ -37,7 +37,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="mb-4 text-5xl font-bold text-white sm:text-6xl md:text-7xl lg:text-8xl"
         >
-          Waverley Circle
+          Waverley Apartments
         </motion.h1>
 
         <motion.p

@@ -50,10 +50,10 @@ export default function Navbar() {
           <Image
             src="/media/Logo.png"
             alt="Invicta Developments"
-            width={140}
-            height={45}
+            width={560}
+            height={180}
             priority
-            className="h-10 w-auto"
+            className="h-40 w-auto"
           />
         </a>
 

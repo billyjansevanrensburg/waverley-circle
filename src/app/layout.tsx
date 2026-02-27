@@ -17,13 +17,13 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   metadataBase: new URL("https://waverley-circle.vercel.app"),
   title:
-    "Waverley Circle | Premium Apartments in Waverley, Pretoria | Invicta Developments",
+    "Waverley Apartments | Premium Apartments in Waverley, Pretoria | Invicta Developments",
   description:
-    "Discover Waverley Circle — modern 2 & 3 bedroom apartments with 2 bathrooms in Waverley, Pretoria. Register your interest today. By Invicta Developments.",
+    "Discover Waverley Apartments — modern 2 & 3 bedroom apartments with 2 bathrooms in Waverley, Pretoria. Register your interest today. By Invicta Developments.",
   keywords:
-    "Waverley apartments, Pretoria apartments, 2 bedroom Waverley, 3 bedroom apartments Pretoria, Invicta Developments, new development Pretoria, Waverley Circle",
+    "Waverley apartments, Pretoria apartments, 2 bedroom Waverley, 3 bedroom apartments Pretoria, Invicta Developments, new development Pretoria, Waverley Apartments",
   openGraph: {
-    title: "Waverley Circle | Premium Apartments in Waverley, Pretoria",
+    title: "Waverley Apartments | Premium Apartments in Waverley, Pretoria",
     description:
       "Modern 2 & 3 bedroom apartments in Waverley, Pretoria by Invicta Developments.",
     type: "website",
@@ -47,7 +47,7 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "RealEstateListing",
-              name: "Waverley Circle",
+              name: "Waverley Apartments",
               description:
                 "Premium 2 & 3 bedroom apartments in Waverley, Pretoria",
               address: {

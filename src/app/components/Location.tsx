@@ -41,7 +41,7 @@ export default function Location() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Waverley Circle Location"
+            title="Waverley Apartments Location"
             className="h-[300px] w-full sm:h-[400px]"
           />
         </motion.div>

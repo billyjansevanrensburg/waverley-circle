@@ -19,9 +19,9 @@ export default function Footer() {
           <Image
             src="/media/Logo.png"
             alt="Invicta Developments"
-            width={120}
-            height={40}
-            className="h-9 w-auto"
+            width={480}
+            height={160}
+            className="h-36 w-auto"
           />
 
           {/* Links */}

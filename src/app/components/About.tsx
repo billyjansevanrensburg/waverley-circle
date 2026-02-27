@@ -71,7 +71,7 @@ export default function About() {
             Modern Living in Waverley
           </h2>
           <p className="mx-auto max-w-3xl text-base leading-relaxed text-text-secondary sm:text-lg">
-            Waverley Circle brings contemporary apartment living to one of
+            Waverley Apartments brings contemporary apartment living to one of
             Pretoria&apos;s most sought-after suburbs. Designed with modern
             families and professionals in mind, each unit offers spacious
             open-plan layouts, quality finishes, and the convenience of a prime
